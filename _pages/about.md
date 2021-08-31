@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<!--
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -48,3 +49,13 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
+
+Hello! Welcome to my virtual abode. I am Ferdous, a PhD candidate in [Computer Science](https://cs.purdue.edu) at Purdue University, USA, advised by [Prof. Alex Pothen](https://www.cs.purdue.edu/homes/apothen/). Before starting PhD at Purdue, I completed my Bachelor and Masters in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/). I also served as a faculty member at [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/cse). I spent three summers as a PhD intern at Pacific Northwest National Lab and Nokia Bell Labs, NJ.
+
+My research interest includes Combinatorial Optimization, Combinatorial Scientific Computing, High-Performance Computing, and Applied algorithms.
+
+Recent Updates
+=====
+* **July 2021** My advisor Prof. Alex Pothen along with  Assefaw Gebremehin, Fredrik Manne receive the prestigious George Polya prize in Applied Combinatorics for 2021. [Here](https://www.cs.purdue.edu/news/articles/2021/pothen_p%C3%B3lya.html) is a story from Purdue News.
+* **May 2021** New Paper on submodular b-matching accepted at SIAM ACDA 2021. See details [here](/publication/2021-01-01-A-Parallel-Approximation-Algorithm-for-Maximizing-Submodular-b-Matching)

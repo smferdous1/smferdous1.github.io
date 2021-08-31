@@ -36,26 +36,38 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.date %}
+         {% elsif page.collection != 'publications' and page.venue and page.date %}
+        <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p> 
+        {% elsif page.collection != 'publications' and page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
              
-        {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
-        {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
+        {% if page.collection == 'publications' and page.citation %}
+          <p> {{ page.citation }} </p>
         {% endif %}
     
         </header>
       {% endunless %}
-
-      <section class="page__content" itemprop="text">
+        
         {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-      </section>
+        <p>
+      {% if page.paperurl %}
+        <a href="{{ page.paperurl }}"><i class="fas fa-fa fa-file-pdf zoom" style="font-size:32px;color:green" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if page.link %}
+        <a href="{{ page.link }}"><i class="fas fa-fw fa-link zoom" style="font-size:32px;color:green" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if page.code %}
+        <a href="{{ page.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if page.github %}
+        <a href="{{ page.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      {% endif %}
+        </p>
+      {% if page.abstract %}
+      <p><b>Abstract</b>: {{page.abstract}}</p>
+      {% endif %}
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
