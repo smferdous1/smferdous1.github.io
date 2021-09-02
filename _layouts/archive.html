@@ -20,5 +20,22 @@ layout: default
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
+      <br>
+      <br>
+    {% if page.title == "Contact Me" %}
+  <div class="author__content">
+    <h3 class="author__name">{{ author.name }}</h3>
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}{% endif %}
+      {% if author.location %}
+      <br>
+        {{ author.location }}.
+      {% endif %}
+      {% if author.email %}
+      <br>
+        Email: {{ author.email }}.
+    {% endif %}
+    </p>
+    {% endif %}
+  </div>
   </div>
 </div>
