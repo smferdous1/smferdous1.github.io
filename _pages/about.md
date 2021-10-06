@@ -14,6 +14,6 @@ My research interest includes Combinatorial Optimization, Combinatorial Scientif
 
 Recent Updates
 =====
-* **Oct 2021** New Journal paper. See details [here](/publication/2021-09-03-Exagraph)
+* **Oct 2021** New Journal paper. See details [here](/publication/2021-09-30-Exagraph)
 * **July 2021** My advisor Prof. Alex Pothen along with  Assefaw Gebremehin, Fredrik Manne receive the prestigious George Polya prize in Applied Combinatorics for 2021. [Here](https://www.cs.purdue.edu/news/articles/2021/pothen_p%C3%B3lya.html) is a story from Purdue News.
 * **May 2021** New Paper on submodular b-matching accepted at SIAM ACDA 2021. See details [here](/publication/2021-01-01-A-Parallel-Approximation-Algorithm-for-Maximizing-Submodular-b-Matching)
