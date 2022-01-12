@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "S M Ferdous"
 title_separator          : "-"
 name                     : &name "S M Ferdous"
-description              : &description "PhD Candidate"
+description              : &description "Post Doc Research Associate"
 url                      : https://smferdous1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smferdous1/smferdous1.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "S M Ferdous"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate, Dept. of CS, Purdue University"
+  bio              : "Post Doc Research Associate, Dept. of CS, Purdue University"
   location         : "West Lafayette, Indiana"
   employer         :
   pubmed           : 
