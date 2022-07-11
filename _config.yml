@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "S M Ferdous"
 title_separator          : "-"
 name                     : &name "S M Ferdous"
-description              : &description "Post Doc Research Associate"
+description              : &description "Linus Pauling Postdoctoral Fellow"
 url                      : https://smferdous1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smferdous1/smferdous1.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "S M Ferdous"
   avatar           : "profile.jpg"
-  bio              : "Post Doc Research Associate, Dept. of CS, Purdue University"
-  location         : "West Lafayette, Indiana"
+  bio              : "Linus Pauling Postdoctoral Fellow, PNNL"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pqbWrO0AAAAJ&hl=en"
-  email            : "sferdou@purdue.edu"
+  email            : "sm.ferdous@pnnl.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
