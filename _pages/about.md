@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my virtual abode. I am Ferdous, a Post-doctoral research associate in [Computer Science](https://cs.purdue.edu) at Purdue University. My postdoc advisor is [Prof. Alex Pothen](https://www.cs.purdue.edu/homes/apothen/). I completed my PhD in October 2021.  Before starting PhD at Purdue, I completed my Bachelor and Masters in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/). I also served as a faculty member at [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/cse). I spent three summers as a PhD intern at Pacific Northwest National Lab and Nokia Bell Labs, NJ.
+Hello! Welcome to my virtual abode. I am Ferdous, a Pauling postdoc fellow at Pacific Northwest National Lab. Prior to that I was a Post-doctoral  associate in [Computer Science](https://cs.purdue.edu) at Purdue University working with [Prof. Alex Pothen](https://www.cs.purdue.edu/homes/apothen/). I completed my PhD in October 2021.  Before starting PhD at Purdue, I completed my Bachelor and Masters in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/). I also served as a faculty member at [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/cse). I spent three summers as a PhD intern at Pacific Northwest National Lab and Nokia Bell Labs, NJ.
 
 My research interest includes Combinatorial Optimization, Combinatorial Scientific Computing, High-Performance Computing, and Applied algorithms.
 
 Recent Updates
 =====
+* **Jun 27, 2022** I have started a new post doctoral position. This time as Linus Pauling Postdoctoral fellow at PNNL. My mentor and manager there is [Dr. Mahantesh Halappanavar](https://www.pnnl.gov/people/mahantesh-halappanavar)
 * **Jan 05, 2022** I have joined as a post docatoral research associate in Purdue University. My post doc advisor is Prof. Alex Pothen.
 * **Oct 14, 2021** I have defended my thesis. 
 * **Oct 2021** New Journal paper. See details [here](/publication/2021-09-30-Exagraph)
