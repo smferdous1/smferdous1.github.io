@@ -14,6 +14,8 @@ My research interest includes Combinatorial Optimization, Combinatorial Scientif
 
 Recent Updates
 =====
+* **Oct 2023** Starting as Data Scientist 2 at PNNL.
+* **Sep 2023** Paper accepted at [SC-IA^3](https://hpc.pnl.gov/IA3/) workshop 
 * **Feb 2023** Paper accepted at [PDP2023](https://www.pdp2023.org/) (acceptance rate 33%)
 * **Jun 27, 2022** I have started a new post doctoral position. This time as Linus Pauling Postdoctoral fellow at PNNL. My mentor and manager there is [Dr. Mahantesh Halappanavar](https://www.pnnl.gov/people/mahantesh-halappanavar)
 * **Jan 05, 2022** I have joined as a post docatoral research associate in Purdue University. My post doc advisor is Prof. Alex Pothen.
