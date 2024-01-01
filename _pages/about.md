@@ -14,6 +14,8 @@ My research interest includes Combinatorial Optimization, Combinatorial Scientif
 
 Recent Updates
 =====
+* **Dec 2023** One paper accepted in IPDPS 2024!
+* **Oct 2023** Served as a program committee at IPDPS 2024.
 * **Oct 2023** Starting as Data Scientist 2 at PNNL.
 * **Sep 2023** Paper accepted at [SC-IA^3](https://hpc.pnl.gov/IA3/) workshop 
 * **Feb 2023** Paper accepted at [PDP2023](https://www.pdp2023.org/) (acceptance rate 33%)
