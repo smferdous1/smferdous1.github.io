@@ -2,7 +2,6 @@
 title: "Picasso: Memory-Efficient Graph Coloring Using Palettes With Applications in Quantum Computing"
 collection: publications
 permalink: /publication/2024-02-01-Picasso-Memory-Efficient-Graph-Coloring-Using-Palettes-With-Applications-in-Quantum-Computing
-excerpt: 'arXiv:2401.06713 [cs]'
 date: 2024-02-01
 venue: 'In the proceedings of 2024 IPDPS (forthcoming)'
 link: 'http://arxiv.org/abs/2401.06713'
