@@ -149,4 +149,60 @@ file = "Ferdous_Rahman_2013_Solving the Minimum Common String Partition Problem 
 }
 
 
+@inproceedings{xiang_cualign_2023,
+	address = {Denver CO USA},
+	title = {{cuAlign}: {Scalable} {Network} {Alignment} on {GPU} {Accelerators}},
+	isbn = {9798400707858},
+	shorttitle = {{cuAlign}},
+	url = {https://dl.acm.org/doi/10.1145/3624062.3625129},
+	doi = {10.1145/3624062.3625129},
+	abstract = {Given two graphs, the objective of network alignment is to find a one-to-one mapping of vertices in one graph (𝐴) to vertices in the other (𝐵), such that the number of overlaps is maximized. We say that edges (𝑖, 𝑗) ∈ 𝐴 and (𝑖′, 𝑗′) ∈ 𝐵 are overlapped if 𝑖 is mapped to 𝑖′ and 𝑗 is mapped to 𝑗′. Network alignment is an important optimization problem with several applications in bioinformatics, computer vision and ontology matching. Since it is an NP-hard problem, efficient heuristics and scalable implementations are necessary. However, a combination of combinatorial and algebraic kernels within the network alignment algorithm poses significant hurdles for parallelization. Further, load imbalance and irregular DRAM traffic limit achievable performance on GPUs. In this work, we introduce a novel framework (cuAlign) that combines intra-network proximity using node (vertex) embedding, sparsification for computational efficiency, and belief propagation (BP) and approximate weighted matching for alignment. We demonstrate qualitative improvements up to 22\% over state-of-the-art approaches. We provide a scalable implementation targeting modern GPU accelerators. Our novel approach identifies and exploits unique structural properties of the BP-based algorithm and employs code fusion to reduce data movement between different steps of the algorithm. Using a diverse set of inputs, we demonstrate up to 19× speedup for belief propagation, 3× speedup for approximate weighted matching, and 15× total, relative to a state-of-the-art multi-threaded implementation.},
+	language = {en},
+	urldate = {2024-03-10},
+	booktitle = {Proceedings of the {SC} '23 {Workshops} of {The} {International} {Conference} on {High} {Performance} {Computing}, {Network}, {Storage}, and {Analysis}},
+	publisher = {ACM},
+	author = {Xiang, Lizhi and Khan, Arif and Ferdous, S. M. and Aravind, Sr and Halappanavar, Mahantesh},
+	month = nov,
+	year = {2023},
+	pages = {747--755},
+	file = {Xiang et al_2023_cuAlign.pdf},
+}
+
+@misc{ferdous_picasso_2024,
+	title = {Picasso: {Memory}-{Efficient} {Graph} {Coloring} {Using} {Palettes} {With} {Applications} in {Quantum} {Computing}},
+	shorttitle = {Picasso},
+	url = {http://arxiv.org/abs/2401.06713},
+	abstract = {A coloring of a graph is an assignment of colors to vertices such that no two neighboring vertices have the same color. The need for memory-efficient coloring algorithms is motivated by their application in computing clique partitions of graphs arising in quantum computations where the objective is to map a large set of Pauli strings into a compact set of unitaries. We present Picasso, a randomized memory-efficient iterative parallel graph coloring algorithm with theoretical sublinear space guarantees under practical assumptions. The parameters of our algorithm provide a trade-off between coloring quality and resource consumption. To assist the user, we also propose a machine learning model to predict the coloring algorithm’s parameters considering these trade-offs. We provide a sequential and a parallel implementation of the proposed algorithm.},
+	language = {en},
+	booktitle={2024 {IPDPS}},
+	urldate = {2024-03-10},
+	publisher = {arXiv},
+	author = {Ferdous, S. M. and Neff, Reece and Peng, Bo and Shuvo, Salman and Minutoli, Marco and Mukherjee, Sayak and Kowalski, Karol and Becchi, Michela and Halappanavar, Mahantesh},
+	month = feb,
+	year = {2024},
+	note = {arXiv:2401.06713 [cs]},
+	keywords = {Computer Science - Distributed, Parallel, and Cluster Computing},
+	annote = {Comment: Accepted by IPDPS 2024},
+	file = {Ferdous et al_2024_Picasso.pdf},
+}
+
+@inproceedings{dambra_amg_2023,
+	address = {Naples, Italy},
+	title = {{AMG} {Preconditioners} based on {Parallel} {Hybrid} {Coarsening} and {Multi}-objective {Graph} {Matching}},
+	isbn = {9798350337631},
+	url = {https://ieeexplore.ieee.org/document/10137155/},
+	doi = {10.1109/PDP59025.2023.00017},
+	language = {en},
+	urldate = {2024-03-10},
+	booktitle = {2023 31st {Euromicro} {International} {Conference} on {Parallel}, {Distributed} and {Network}-{Based} {Processing} ({PDP})},
+	publisher = {IEEE},
+	author = {D'Ambra, Pasqua and Durastante, Fabio and Ferdous, S M and Filippone, Salvatore and Halappanavar, Mahantesh and Pothen, Alex},
+	month = mar,
+	year = {2023},
+	pages = {59--67},
+	file = {D'Ambra et al_2023_AMG Preconditioners based on Parallel Hybrid Coarsening and Multi-objective.pdf},
+}
+
+
+
 

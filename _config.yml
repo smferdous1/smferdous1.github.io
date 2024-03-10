@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "S M Ferdous"
 title_separator          : "-"
 name                     : &name "S M Ferdous"
-description              : &description "Linus Pauling Postdoctoral Fellow"
+description              : &description "Data Scientist and Linus Pauling Fellow"
 url                      : https://smferdous1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smferdous1/smferdous1.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sm-ferdous/"
+  linkedin         : "sm-ferdous"
   orcid            : "https://orcid.org/0000-0001-5078-0031"
   pinterest        :
   soundcloud       :
