@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my virtual abode. I am Ferdous, a Pauling postdoc fellow at Pacific Northwest National Lab. Prior to that I was a Post-doctoral  associate in [Computer Science](https://cs.purdue.edu) at Purdue University working with [Prof. Alex Pothen](https://www.cs.purdue.edu/homes/apothen/). I completed my PhD in October 2021.  Before starting PhD at Purdue, I completed my Bachelor and Masters in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/). I also served as a faculty member at [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/cse). I spent three summers as a PhD intern at Pacific Northwest National Lab and Nokia Bell Labs, NJ.
+Hello! Welcome to my virtual abode. I am Ferdous, a Data Scientist and Pauling fellow at Pacific Northwest National Lab. Prior to that I was a Post-doctoral  associate in [Computer Science](https://cs.purdue.edu) at Purdue University working with [Prof. Alex Pothen](https://www.cs.purdue.edu/homes/apothen/). I completed my PhD in October 2021.  Before starting PhD at Purdue, I completed my Bachelor and Masters in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/). I also served as a faculty member at [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/cse). I spent three summers as a PhD intern at Pacific Northwest National Lab and Nokia Bell Labs, NJ.
 
 My research interest includes Combinatorial Optimization, Combinatorial Scientific Computing, High-Performance Computing, and Applied algorithms.
 
