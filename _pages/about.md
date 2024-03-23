@@ -14,8 +14,8 @@ My research interest includes Combinatorial Optimization, Combinatorial Scientif
 
 Recent Updates
 =====
-* **Dec 2023** One paper accepted in IPDPS 2024 (acceptance rate 25%). See details [here](/publication/2024-02-01-Picasso-Memory-Efficient-Graph-Coloring-Using-Palettes-With-Applications-in-Quantum-Computing).
-* **Oct 2023** Served as a program committee at IPDPS 2024.
+* **Dec 2023** Paper accepted in IPDPS 2024 (acceptance rate 25%). See details [here](/publication/2024-02-01-Picasso-Memory-Efficient-Graph-Coloring-Using-Palettes-With-Applications-in-Quantum-Computing).
+* **Oct 2023** Served as a program committee at [IPDPS 2024] (https://www.ipdps.org/ipdps2024/2024-program-committee.html).
 * **Oct 2023** Starting as Data Scientist 2 at PNNL.
 * **Sep 2023** Paper accepted at [SC-IA^3](https://hpc.pnl.gov/IA3/) workshop. See details [here](/publication/2023-11-01-cuAlign-Scalable-Network-Alignment-on-GPU-Accelerators). 
 * **Feb 2023** Paper accepted at [PDP2023](https://www.pdp2023.org/) (acceptance rate 33%). See details [here] (/publication/2023-03-01-AMG-Preconditioners-based-on-Parallel-Hybrid-Coarsening-and-Multi-objective-Graph-Matching).
