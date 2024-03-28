@@ -16,7 +16,7 @@ Recent Updates
 =====
 * **Mar 2024** Paper accepted at [SEA 2024](https://sea2024.univie.ac.at/). Details upcoming..
 * **Feb 2024** Refereed paper accepted at [IOS 2024](https://ios2024.rice.edu/refereed-papers/). See details [here](/publication/2024-Multiplicative-auction)
-* **Dec 2023** Paper accepted at IPDPS 2024 (acceptance rate 25%). See details [here](/publication/2024-02-01-Picasso-Memory-Efficient-Graph-Coloring-Using-Palettes-With-Applications-in-Quantum-Computing).
+* **Dec 2023** Paper accepted at [IPDPS 2024](http://www.ipdps.org) (acceptance rate 25%). See details [here](/publication/2024-02-01-Picasso-Memory-Efficient-Graph-Coloring-Using-Palettes-With-Applications-in-Quantum-Computing).
 * **Oct 2023** Served as a program committee at [IPDPS 2024](https://www.ipdps.org/ipdps2024/2024-program-committee.html).
 * **Oct 2023** Starting as a Data Scientist at PNNL.
 * **Sep 2023** Paper accepted at [SC-IA^3](https://hpc.pnl.gov/IA3/) workshop. See details [here](/publication/2023-11-01-cuAlign-Scalable-Network-Alignment-on-GPU-Accelerators). 
