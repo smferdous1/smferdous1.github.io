@@ -14,6 +14,7 @@ My research interest includes Combinatorial Optimization, Combinatorial Scientif
 
 Recent Updates
 =====
+* **Jun 2024** Paper accepted at [SC 2024](https://sc24.supercomputing.org/). Details upcoming.
 * **May 2024** Paper accepted at [KDD 2024](https://kdd2024.kdd.org/). Details upcoming.
 * **Mar 2024** Paper accepted at [SEA 2024](https://sea2024.univie.ac.at/). Details upcoming.
 * **Feb 2024** Refereed paper accepted at [IOS 2024](https://ios2024.rice.edu/refereed-papers/). See details [here](/publication/2024-Multiplicative-auction)
