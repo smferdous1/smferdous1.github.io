@@ -2,8 +2,8 @@
 title: "Streaming Matching and Edge Cover in Practice"
 collection: publications
 permalink: /publication/2024-05-01-Streaming-Matching-and-Edge-Cover-in-Practice
-date: 2024-02-01
-venue: 'In the proceedings of 2024 IPDPS (forthcoming)'
+date: 2024-05-01
+venue: 'In the proceedings of 2024 SEA (forthcoming)'
 citation: ' S. M. Ferdous, Alex Pothen, Mahantesh Halappanavar, &quot;Streaming Matching and Edge Cover in Practice.&quot; In the proceedings of SEA 2024, 2024.'
 abstract: "Graph algorithms with polynomial space and time requirements often become infeasible for massive
 graphs with billions of edges or more. State-of-the-art approaches therefore employ approximate serial,
@@ -33,5 +33,5 @@ demonstrate an application of semi-streaming algorithm by computing a matching u
 bounded memory on intersection graphs derived from three machine learning datasets, while the
 existing offline algorithms could not complete on one of these datasets since its memory requirement
 exceeded 1TB."
-paperurl: "/files/pdf/papers/Ferdous et al_2024_Picasso.pdf"
+paperurl: "files/pdf/papers/Ferdous et al_2024_Streaming  Matching and Covering in practice.pdf"
 ---
