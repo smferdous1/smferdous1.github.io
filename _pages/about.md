@@ -10,10 +10,11 @@ redirect_from:
 
 Hello! Welcome to my virtual abode. I am Ferdous, a Data Scientist and [Pauling fellow](https://www.pnnl.gov/projects/linus-pauling-distinguished-postdoctoral-fellowship/recipients) in the Data Science and Machine Intelligence group at [Pacific Northwest National Laboratory](https://www.pnnl.gov/). I am also affiliated with [Computer Science](https://cs.purdue.edu) at Purdue University as a Visiting Scholar. Before that, I was a Post-doctoral associate in CS at Purdue University, working with [Prof. Alex Pothen](https://www.cs.purdue.edu/homes/apothen/). I completed my PhD in October 2021 from the same group. Before starting my PhD at Purdue, I completed my Bachelor's and Master's in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/). I also served as a faculty member at [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/cse). I spent three summers as a PhD intern at Pacific Northwest National Lab and Nokia Bell Labs, NJ.
 
-My research interest includes Combinatorial Optimization, Combinatorial Scientific Computing, High-Performance Computing, and Applied algorithms.
+My research interests include Combinatorial Optimization, Combinatorial Scientific Computing, High-Performance Computing, and Applied algorithms.
 
 Recent Updates
 =====
+* **Jun 2024** Paper accepted at [ESA 2024](https://algo-conference.org/2024/esa/). Details upcoming.
 * **Jun 2024** Paper accepted at [SC 2024](https://sc24.supercomputing.org/). Details upcoming.
 * **May 2024** Paper accepted at [KDD 2024](https://kdd2024.kdd.org/). Details upcoming.
 * **Mar 2024** Paper accepted at [SEA 2024](https://sea2024.univie.ac.at/). Details upcoming.
