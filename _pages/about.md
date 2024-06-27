@@ -26,10 +26,3 @@ Recent Updates
 * **Feb 2023** Paper accepted at [PDP2023](https://www.pdp2023.org/) (acceptance rate 33%). See details [here](/publication/2023-03-01-AMG-Preconditioners-based-on-Parallel-Hybrid-Coarsening-and-Multi-objective-Graph-Matching).
 * **Jun 2022** I am one of the Linus Pauling postdoctoral fellowship recipients at PNNL. See the [recipients list](https://www.pnnl.gov/projects/linus-pauling-distinguished-postdoctoral-fellowship/recipients). See [Purdue story](https://www.cs.purdue.edu/news/articles/2022/s-m-ferdous-named-pauling-fellow.html)
 * **Jan 2022** I have started as a postdoctoral research associate at Purdue University. My postdoc advisor is Prof. Alex Pothen.
-
-Old News
-=====
-* **Oct 14, 2021** I have defended my PhD. Here is my [thesis](https://doi.org/10.25394/PGS.17136584.v1) 
-* **Oct 2021** New Journal paper. See details [here](/publication/2021-09-30-Exagraph).
-* **July 2021** My advisor Prof. Alex Pothen along with  Assefaw Gebremehin, Fredrik Manne receive the prestigious George Polya prize in Applied Combinatorics for 2021. [Here](https://www.cs.purdue.edu/news/articles/2021/pothen_p%C3%B3lya.html) is a story from Purdue News.
-* **May 2021** New Paper on submodular b-matching accepted at SIAM ACDA 2021. See details [here](/publication/2021-01-01-A-Parallel-Approximation-Algorithm-for-Maximizing-Submodular-b-Matching).
