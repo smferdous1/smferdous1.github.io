@@ -32,6 +32,7 @@ demonstrate an application of semi-streaming algorithm by computing a matching u
 bounded memory on intersection graphs derived from three machine learning datasets, while the
 existing offline algorithms could not complete on one of these datasets since its memory requirement
 exceeded 1TB."
+link: 'https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SEA.2024.12'
 citation: 'S. M. Ferdous, Alex Pothen, Mahantesh Halappanavar, &quot;Streaming Matching and Edge Cover in Practice.&quot; In the proceedings of SEA 2024, 2024.'
 paperurl: "/files/pdf/papers/Ferdous et al_2024_Streaming  Matching and Covering in practice.pdf"
 ---
