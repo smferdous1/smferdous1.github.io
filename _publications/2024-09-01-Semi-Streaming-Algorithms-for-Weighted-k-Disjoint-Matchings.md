@@ -2,7 +2,6 @@
 title: "Semi-Streaming Algorithms for Weighted k-Disjoint Matchings"
 collection: publications
 permalink: /publication/2024-09-01-Semi-Streaming-Algorithms-for-Weighted-k-Disjoint-Matchings
-excerpt: 'arXiv:2311.02073 [cs]'
 date: 2024-09-01
 venue: 'In the proceedings of ESA 24: European Symposium on Algorithms'
 link: 'http://arxiv.org/abs/2311.02073'
