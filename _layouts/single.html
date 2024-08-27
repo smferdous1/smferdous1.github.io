@@ -58,6 +58,9 @@ layout: default
       {% if page.link %}
         <a href="{{ page.link }}"><i class="fas fa-fw fa-link zoom" style="font-size:32px;color:darkcyan" aria-hidden="true"></i></a>
       {% endif %}
+      {% if post.arxiv %}
+      <a href="{{ post.arxiv }}"><i class="ai ai-arxiv-square" style="color:darkcyan" aria-hidden="true"></i></a>
+      {% endif %}
       {% if page.code %}
         <a href="{{ page.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
       {% endif %}

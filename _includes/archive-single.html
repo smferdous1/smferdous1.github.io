@@ -68,11 +68,11 @@
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}"><i class="fas fa-fa fa-file-pdf zoom" style="color:darkcyan" aria-hidden="true"></i></a>
       {% endif %}
-      {% if post.arxiv %}
-      <a href="{{ post.arxiv }}"><i class="ai ai-arxiv-square" style="color:darkcyan" aria-hidden="true"></i></a>
-      {% endif %}
       {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" style="color:darkcyan" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.arxiv %}
+      <a href="{{ post.arxiv }}"><i class="ai ai-arxiv-square" style="color:darkcyan" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.code %}
         <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
