@@ -38,7 +38,8 @@
 -->
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications'  %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <!--<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> -->
+        {{ title }}
       {% endif %}
     </h2>
     
