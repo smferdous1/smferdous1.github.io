@@ -14,8 +14,7 @@ My research interests include Combinatorial Optimization, Combinatorial Scientif
 
 Recent Updates
 =====
-* **Nov 2024** Serving as a program Committee member at [SIAM ACDA 2025](https://www.siam.org/conferences-events/siam-conferences/acda25/). Please consider submitting your algorithmic work!
-* **Oct 2024** Serving as a program Committee member at the Algorithm Track of [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-program-committee.html). Please send your best results! 
+* **Nov 2024** Serving as a program Committee member at the Algorithm Track of [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-program-committee.html) and at [SIAM ACDA 2025](https://www.siam.org/conferences-events/siam-conferences/acda25/). Please consider submitting your algorithmic work!
 * **Jun 2024** Paper accepted at [ESA 2024](https://algo-conference.org/2024/esa/) and [SC 2024](https://sc24.supercomputing.org/).
 * **May 2024** Paper accepted at [KDD 2024](https://kdd2024.kdd.org/). 
 * **Mar 2024** Paper accepted at [SEA 2024](https://sea2024.univie.ac.at/). 
