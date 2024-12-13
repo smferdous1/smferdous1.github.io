@@ -14,6 +14,8 @@ My research interests include Combinatorial Optimization, Combinatorial Scientif
 
 Recent Updates
 =====
+* **Dec 2024** Honored to receive the **Outstanding Performance Award** for the year 2024 from PNNL. Quoting from the certificate: "_This award is presented in recognition
+of your outstanding contribution in exceptional research project leadership, development of high-impact scientific artifacts, and mentorship of multiple interns_". 
 * **Nov 2024** Serving as a program Committee member at the Algorithm Track of [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-program-committee.html) and at [SIAM ACDA 2025](https://www.siam.org/conferences-events/siam-conferences/acda25/). Please consider submitting your algorithmic work!
 * **Jun 2024** Paper accepted at [ESA 2024](https://algo-conference.org/2024/esa/) and [SC 2024](https://sc24.supercomputing.org/).
 * **May 2024** Paper accepted at [KDD 2024](https://kdd2024.kdd.org/). 
