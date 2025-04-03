@@ -14,7 +14,9 @@ My research interests include Combinatorial Optimization, Combinatorial Scientif
 
 Recent Updates
 =====
-* **Jan 2025** Paper accepted at _Journal of Parallel and Distributed Computing_!
+* **Apr 2025** Paper accepted in Symposium on Experimental Algorithms [SEA 2025](https://regindex.github.io/sea2025.github.io/index.html). See [preprint](https://arxiv.org/abs/2403.10332). 
+* **Mar 2025** Serving as a Program Committee member in Track B of the European Symposium on Algorithms [ESA 2025](https://algo-conference.org/2025/esa/).  
+* **Jan 2025** [Paper](https://www.sciencedirect.com/science/article/pii/S0743731525000048) accepted at _Journal of Parallel and Distributed Computing_!
 * **Dec 2024** Honored to receive the **Outstanding Performance Award** for the year 2024 from PNNL. Quoting from the certificate: "_This award is presented in recognition
 of your outstanding contribution in exceptional research project leadership, development of high-impact scientific artifacts, and mentorship of multiple interns_". 
 * **Nov 2024** Serving as a program Committee member at the Algorithm Track of [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-program-committee.html) and at [SIAM ACDA 2025](https://www.siam.org/conferences-events/siam-conferences/acda25/). Please consider submitting your algorithmic work!
