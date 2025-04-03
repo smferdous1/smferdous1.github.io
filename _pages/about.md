@@ -20,14 +20,17 @@ Recent Updates
 * **Dec 2024** Honored to receive the **Outstanding Performance Award** for the year 2024 from PNNL. Quoting from the certificate: "_This award is presented in recognition
 of your outstanding contribution in exceptional research project leadership, development of high-impact scientific artifacts, and mentorship of multiple interns_". 
 * **Nov 2024** Serving as a program Committee member at the Algorithm Track of [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-program-committee.html) and at [SIAM ACDA 2025](https://www.siam.org/conferences-events/siam-conferences/acda25/). Please consider submitting your algorithmic work!
-* **Jun 2024** Paper accepted at [ESA 2024](https://algo-conference.org/2024/esa/) and [SC 2024](https://sc24.supercomputing.org/).
-* **May 2024** Paper accepted at [KDD 2024](https://kdd2024.kdd.org/). 
-* **Mar 2024** Paper accepted at [SEA 2024](https://sea2024.univie.ac.at/). 
-* **Feb 2024** Refereed paper accepted at [IOS 2024](https://ios2024.rice.edu/refereed-papers/). 
-* **Dec 2023** Paper accepted at [IPDPS 2024](https://www.ipdps.org/ipdps2024/index.html). 
+* **Jun 2024** [Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2024.53) accepted at [ESA 2024](https://algo-conference.org/2024/esa/).
+* **Jun 2024** [Paper](https://ieeexplore.ieee.org/document/10793177) accepted at [SC 2024](https://sc24.supercomputing.org/).
+* **May 2024** [Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671940) accepted at [KDD 2024](https://kdd2024.kdd.org/). 
+* **Mar 2024** [Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SEA.2024.12) accepted at [SEA 2024](https://sea2024.univie.ac.at/). 
+* **Feb 2024** [Refereed paper](https://arxiv.org/abs/2403.05781) accepted at [IOS 2024](https://ios2024.rice.edu/refereed-papers/). 
+* **Dec 2023** [Paper](https://ieeexplore.ieee.org/document/10579092) accepted at [IPDPS 2024](https://www.ipdps.org/ipdps2024/index.html). 
 * **Oct 2023** Served as a program committee at [IPDPS 2024](https://www.ipdps.org/ipdps2024/2024-program-committee.html).
+<!---
 * **Oct 2023** Starting as a Data Scientist at PNNL.
 * **Sep 2023** Paper accepted at [SC-IA^3](https://hpc.pnl.gov/IA3/) workshop.
 * **Feb 2023** Paper accepted at [PDP2023](https://www.pdp2023.org/). 
 * **Jun 2022** I am one of the Linus Pauling postdoctoral fellowship recipients at PNNL. See the [recipients list](https://www.pnnl.gov/projects/linus-pauling-distinguished-postdoctoral-fellowship/recipients). See [Purdue story](https://www.cs.purdue.edu/news/articles/2022/s-m-ferdous-named-pauling-fellow.html)
 * **Jan 2022** I have started as a postdoctoral research associate at Purdue University. My postdoc advisor is Prof. Alex Pothen.
+-->
