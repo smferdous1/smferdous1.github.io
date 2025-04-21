@@ -14,6 +14,8 @@ My research interests include Combinatorial Optimization, Combinatorial Scientif
 
 Recent Updates
 =====
+* **Apr 2025** Serving as a Program Committee member at the SIAM Symposium on Algorithm Engineering and Experiments (ALENEX26)
+* **Apr 2025** Paper accepted in ACM International Conference on Supercomputing [(ICS) 2025](https://hpcrl.github.io/ICS2025-webpage/)
 * **Apr 2025** Paper accepted in Symposium on Experimental Algorithms [SEA 2025](https://regindex.github.io/sea2025.github.io/index.html). See [preprint](https://arxiv.org/abs/2403.10332). 
 * **Mar 2025** Serving as a Program Committee member in Track B of the European Symposium on Algorithms [ESA 2025](https://algo-conference.org/2025/esa/).  
 * **Jan 2025** [Paper](https://www.sciencedirect.com/science/article/pii/S0743731525000048) accepted at _Journal of Parallel and Distributed Computing_!
