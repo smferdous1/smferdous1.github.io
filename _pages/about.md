@@ -14,7 +14,7 @@ My research interests include Combinatorial Optimization, Combinatorial Scientif
 
 Recent Updates
 =====
-* **Apr 2025** Serving as a Program Committee member in the Algorithm track at [SC24](https://sc25.supercomputing.org/).
+* **Apr 2025** Serving as a Program Committee member in the Algorithm track at [SC25](https://sc25.supercomputing.org/).
 * **Apr 2025** Serving as a Program Committee member at the SIAM Symposium on Algorithm Engineering and Experiments (ALENEX26).
 * **Apr 2025** Paper <span style="color:green">accepted</span> in ACM International Conference on Supercomputing [(ICS) 2025](https://hpcrl.github.io/ICS2025-webpage/).
 * **Apr 2025** Paper <span style="color:green">accepted</span> in Symposium on Experimental Algorithms [SEA 2025](https://regindex.github.io/sea2025.github.io/index.html). See [preprint](https://arxiv.org/abs/2403.10332). 
