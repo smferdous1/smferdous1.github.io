@@ -14,18 +14,19 @@ My research interests include Combinatorial Optimization, Combinatorial Scientif
 
 Recent Updates
 =====
-* **Apr 2025** Serving as a Program Committee member at the SIAM Symposium on Algorithm Engineering and Experiments (ALENEX26)
-* **Apr 2025** Paper accepted in ACM International Conference on Supercomputing [(ICS) 2025](https://hpcrl.github.io/ICS2025-webpage/)
-* **Apr 2025** Paper accepted in Symposium on Experimental Algorithms [SEA 2025](https://regindex.github.io/sea2025.github.io/index.html). See [preprint](https://arxiv.org/abs/2403.10332). 
+* **Apr 2025** Serving as a Program Committee member in the Algorithm track at [SC24](https://sc25.supercomputing.org/).
+* **Apr 2025** Serving as a Program Committee member at the SIAM Symposium on Algorithm Engineering and Experiments (ALENEX26).
+* **Apr 2025** Paper <span style="color:green">accepted</span> in ACM International Conference on Supercomputing [(ICS) 2025](https://hpcrl.github.io/ICS2025-webpage/).
+* **Apr 2025** Paper <span style="color:green">accepted</span> in Symposium on Experimental Algorithms [SEA 2025](https://regindex.github.io/sea2025.github.io/index.html). See [preprint](https://arxiv.org/abs/2403.10332). 
 * **Mar 2025** Serving as a Program Committee member in Track B of the European Symposium on Algorithms [ESA 2025](https://algo-conference.org/2025/esa/).  
 * **Jan 2025** [Paper](https://www.sciencedirect.com/science/article/pii/S0743731525000048) accepted at _Journal of Parallel and Distributed Computing_!
 * **Dec 2024** Honored to receive the **Outstanding Performance Award** for the year 2024 from PNNL. Quoting from the certificate: "_This award is presented in recognition
 of your outstanding contribution in exceptional research project leadership, development of high-impact scientific artifacts, and mentorship of multiple interns_". 
 * **Nov 2024** Serving as a program Committee member at the Algorithm Track of [IPDPS 2025](https://www.ipdps.org/ipdps2025/2025-program-committee.html) and at [SIAM ACDA 2025](https://www.siam.org/conferences-events/siam-conferences/acda25/). Please consider submitting your algorithmic work!
-* **Jun 2024** [Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2024.53) accepted at [ESA 2024](https://algo-conference.org/2024/esa/).
-* **Jun 2024** [Paper](https://ieeexplore.ieee.org/document/10793177) accepted at [SC 2024](https://sc24.supercomputing.org/).
-* **May 2024** [Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671940) accepted at [KDD 2024](https://kdd2024.kdd.org/). 
-* **Mar 2024** [Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SEA.2024.12) accepted at [SEA 2024](https://sea2024.univie.ac.at/). 
-* **Feb 2024** [Refereed paper](https://arxiv.org/abs/2403.05781) accepted at [IOS 2024](https://ios2024.rice.edu/refereed-papers/). 
-* **Dec 2023** [Paper](https://ieeexplore.ieee.org/document/10579092) accepted at [IPDPS 2024](https://www.ipdps.org/ipdps2024/index.html). 
+* **Jun 2024** [Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2024.53) <span style="color:green">accepted</span> at [ESA 2024](https://algo-conference.org/2024/esa/).
+* **Jun 2024** [Paper](https://ieeexplore.ieee.org/document/10793177) <span style="color:green">accepted</span> at [SC 2024](https://sc24.supercomputing.org/).
+* **May 2024** [Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671940) <span style="color:green">accepted</span> at [KDD 2024](https://kdd2024.kdd.org/). 
+* **Mar 2024** [Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SEA.2024.12) <span style="color:green">accepted</span> at [SEA 2024](https://sea2024.univie.ac.at/). 
+* **Feb 2024** [Refereed paper](https://arxiv.org/abs/2403.05781) <span style="color:green">accepted</span> at [IOS 2024](https://ios2024.rice.edu/refereed-papers/). 
+* **Dec 2023** [Paper](https://ieeexplore.ieee.org/document/10579092) <span style="color:green">accepted</span> at [IPDPS 2024](https://www.ipdps.org/ipdps2024/index.html). 
 * **Oct 2023** Served as a program committee at [IPDPS 2024](https://www.ipdps.org/ipdps2024/2024-program-committee.html).
