@@ -19,7 +19,8 @@ Recent Updates
 * **Apr 2025** Serving as a Program Committee member in the Algorithm track at [SC25](https://sc25.supercomputing.org/).
 * **Apr 2025** Paper <span style="color:green">accepted</span> in ACM International Conference on Supercomputing [(ICS) 2025](https://hpcrl.github.io/ICS2025-webpage/).
 * **Apr 2025** Paper <span style="color:green">accepted</span> in Symposium on Experimental Algorithms [SEA 2025](https://regindex.github.io/sea2025.github.io/index.html). See [preprint](https://arxiv.org/abs/2403.10332). 
-* **Mar 2025** Serving as a Program Committee member in Track B of the European Symposium on Algorithms [ESA 2025](https://algo-conference.org/2025/esa/).  
+* **Mar 2025** Serving as a Program Committee member in Track B of the European Symposium on Algorithms [ESA 2025](https://algo-conference.org/2025/esa/).
+* **Feb 2025** Participated in the 3-day long ICERM workshop on [Fusing Theory and Practice of Graph Algorithms](https://icerm.brown.edu/program/hot_topics_workshop/htw-25-ftpga) and prestented a lightning talk.
 * **Jan 2025** [Paper](https://www.sciencedirect.com/science/article/pii/S0743731525000048) <span style="color:green">accepted</span> at [_Journal of Parallel and Distributed Computing_](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)
 * **Dec 2024** Honored to receive the **Outstanding Performance Award** for the year 2024 from PNNL. Quoting from the certificate: "_This award is presented in recognition
 of your outstanding contribution in exceptional research project leadership, development of high-impact scientific artifacts, and mentorship of multiple interns_". 
