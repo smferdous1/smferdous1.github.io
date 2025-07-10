@@ -14,7 +14,7 @@ My research interests include Combinatorial Optimization, Combinatorial Scientif
 
 Recent Updates
 =====
-* **Jun 2025** Paper <span style="color:green">accepted</span> in the International Conference on Advances in Social Networks Analysis and Mining (ASONAM) 2025!
+* **Jun 2025** Paper <span style="color:green">accepted</span> in the International Conference on Advances in Social Networks Analysis and Mining [ASONAM 2025](https://asonam.cpsc.ucalgary.ca/2025/)!
 * **Jun 2025** Two papers <span style="color:green">accepted</span> in the European Symposium of Algorithms [ESA 2025](https://algo-conference.org/2025/esa/)!
 * **Jun 2025** Proud and honored to be part of this [ACM ICS Best Paper](https://hpcrl.github.io/ICS2025-webpage/) team! 
 * **Apr 2025** Our IPDPS 2024 [Picasso](https://ieeexplore.ieee.org/document/10579092) work has been featured in [PNNL news](https://www.pnnl.gov/news-media/scientists-speed-groundwork-essential-quantum-computing). See also the other coverages: [Quantum Computing Report](https://quantumcomputingreport.com/pnnl-develops-picasso-algorithm-to-accelerate-quantum-data-preparation-by-85-percent-using-graph-coloring-and-clique-partitioning/), [Inside HPC](https://insidehpc.com/2025/04/sparsification-pnnl-slims-down-data-for-quantum/), [Quantum Insider](https://thequantuminsider.com/2025/04/24/scientists-speed-up-the-groundwork-essential-for-quantum-computing/).
