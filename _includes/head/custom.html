@@ -5,6 +5,21 @@
 <!-- 
 <link href="//www.purdue.edu/purdue/images/favicon.ico" rel="shortcut icon"/>
 -->
+<style>
+  /* Kill the right TOC sidebar everywhere */
+  .sidebar__right { display: none !important; }
+
+  /* Make the main column span full width on common layouts */
+  .layout--single .page__content,
+  .layout--home .page__content,
+  .layout--archive .page__content,
+  .page__content {
+    float: none !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+</style>
+
 
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon.png?v=M44lzPylqQ">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ base_path }}/images/favicon-32x32.png?v=M44lzPylqQ">
