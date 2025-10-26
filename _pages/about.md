@@ -11,7 +11,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a data scientist and ex-[Linus Pauling Postocdoral Fellow](https://www.pnnl.gov/projects/linus-pauling-distinguished-postdoctoral-fellowship/recipients) at Pacific Northwest Natonal Laboratory, working at the intersection of algorithm design and high-performance computing. My research spans streaming, parallel and distributed algorithms for large-scale combinatoiral problems, with applications to quantum chemistry, data science, and machine learning.
+I am a data scientist and ex-[Linus Pauling Postocdoral Fellow](https://www.pnnl.gov/projects/linus-pauling-distinguished-postdoctoral-fellowship/recipients) at [Pacific Northwest Natonal Laboratory](https://www.pnnl.gov/), working at the intersection of **algorithm design** and **high-performance computing**. Previously, I was a postdoctoral research associate in the department of computer science at [Purdue University](https://www.purdue.edu/), from where I received my PhD in computer science.
+
+My research is in solving large-scale combinatorial problems, where my goal is to design algorithms that are **theoretically sound** and **practically efficient**. To achieve this I often utilize **streaming, parallel and distributed memory** computational models. I am highly interested to explore interdisciplinary applications of combinatorial problems,  particularly in **quantum computing, data science, and machine learning**.
 
 Recent Updates
 =====
