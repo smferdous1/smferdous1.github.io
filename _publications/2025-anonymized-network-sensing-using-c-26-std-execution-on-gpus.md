@@ -6,5 +6,6 @@ authors: "Michael Mandulak, Sayan Ghosh, S M Ferdous, Mahantesh Halappanavar and
 venue: "2025 IEEE High Performance Extreme Computing Conference (HPEC)"
 arxiv: "https://arxiv.org/abs/2510.14050"
 link: "https://doi.org/10.1109/HPEC67600.2025.11196472"
+paperurl: "/files/pdf/papers/Mandulak et al. - 2025 - Anonymized Network Sensing using C++26 stdexecution on GPUs.pdf"
 ---
 *Citation:* Mandulak, Michael and Ghosh, Sayan and Ferdous, SM and Halappanavar, Mahantesh and Slota, George, "Anonymized Network Sensing using C++ 26 std:: execution on GPUs", 2025 IEEE High Performance Extreme Computing Conference (HPEC), 2025

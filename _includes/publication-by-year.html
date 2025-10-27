@@ -1,3 +1,4 @@
+{% include base_path %}
 {%- comment -%} Compact publications list grouped by year with colored tag badges {%- endcomment -%}
 {%- assign pubs = site.publications | sort: "date" | reverse -%}
 {%- assign groups = pubs | group_by_exp: "p", "p.date | date: '%Y'" -%}
