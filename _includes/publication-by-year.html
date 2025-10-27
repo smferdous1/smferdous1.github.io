@@ -1,0 +1,56 @@
+{%- comment -%} Compact publications list grouped by year with colored tag badges {%- endcomment -%}
+{%- assign pubs = site.publications | sort: "date" | reverse -%}
+{%- assign groups = pubs | group_by_exp: "p", "p.date | date: '%Y'" -%}
+
+{%- for group in groups -%}
+  <h2 class="pub-year" id="y{{ group.name }}">{{ group.name }}</h2>
+  <ul class="pub-list">
+    {%- for post in group.items -%}
+      {%- if post.status == "unpublished" | post.status == "thesis" -%}
+        {%- continue -%}
+      {%- endif -%}
+      <li class="pub-item">
+          <strong>{{ post.title }}</strong>
+      <br>
+      {% if post.author %}
+        {{ post.author }}
+      {% endif %}
+      {% if post.authors %}
+        {{ post.authors }}
+      {% endif %}
+      {% if post.venue %}
+        In <span class="pub-venue">{{ post.venue }}</span>
+      {% endif %}
+      <br>
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}"><i class="fas fa-fa fa-file-pdf zoom" style="color:darkcyan" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.link %}
+        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" style="color:darkcyan" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.arxiv %}
+      <a href="{{ post.arxiv }}"><i class="ai ai-arxiv-square" style="color:darkcyan" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.code %}
+        <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.github %}
+        <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.award %}
+  <span class="pub-award" title="Best Paper Award" style="color: red;">
+    <i class="fas fa-trophy" style="color:red"></i> Best paper
+  </span>
+{% endif %}
+      {% if post.news %}
+        <a href="{{ post.news }}">[news coverage]</a>
+      {% endif %}
+      {%- if post.tags and post.tags.size > 0 -%}
+            {%- for tag in post.tags -%}
+              <span class="tag-badge" data-tag="{{ tag | downcase }}">{{ tag }}</span>
+            {%- endfor -%}
+      {%- endif -%}
+      </li>
+    {%- endfor -%}
+  </ul>
+{%- endfor -%}

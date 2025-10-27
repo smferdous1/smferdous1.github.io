@@ -9,6 +9,5 @@ For updated list please see my [CV](/files/pdf/CV-Ferdous.pdf) or <u><a href="{{
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include publication-by-year.html %}
+
