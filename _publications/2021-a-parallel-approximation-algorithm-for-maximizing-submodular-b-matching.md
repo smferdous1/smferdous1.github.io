@@ -3,7 +3,7 @@ title: "A parallel approximation algorithm for maximizing submodular b-matching"
 collection: publications
 date: 2021-01-01
 authors: "S M Ferdous, Alex Pothen, Arif Khan, Ajay Panyala and Mahantesh Halappanavar"
-venue: "SIAM Conference on Applied and Computational Discrete Algorithms (ACDA21)"
+venue: "SIAM Conference on Applied and Computational Discrete Algorithms (<strong>ACDA 21</strong>)"
 link: "https://doi.org/10.1137/1.9781611976830.5"
 arxiv: "https://arxiv.org/abs/2107.05793"
 github: "https://github.com/smferdous1/Submodular-b-matching"

@@ -14,13 +14,13 @@
           <strong>{{ post.title }}</strong>
       <br>
       {% if post.author %}
-        {{ post.author }}
+        {{ post.author}},
       {% endif %}
       {% if post.authors %}
-        {{ post.authors }}
+        {{ post.authors}},
       {% endif %}
       {% if post.venue %}
-        In <span class="pub-venue">{{ post.venue }}</span>
+        In <span class="pub-venue">{{ post.venue}}.</span>
       {% endif %}
       <br>
       {% if post.paperurl %}

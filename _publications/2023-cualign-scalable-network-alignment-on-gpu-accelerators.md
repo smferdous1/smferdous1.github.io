@@ -2,8 +2,8 @@
 title: "cuAlign: Scalable Network Alignment on GPU Accelerators"
 collection: publications
 date: 2023-11-12
-authors: "Lizhi Xiang, Arif Khan, S. M. Ferdous, Sr Aravind, and Mahantesh Halappanavar"
-venue: " SC'23 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis"
+authors: "Lizhi Xiang, Arif Khan, S. M. Ferdous, Sr Aravind and Mahantesh Halappanavar"
+venue: " <strong>SC'23</strong> Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis"
 link: "https://doi.org/10.1145/3624062.3625129"
 paperurl: "files/pdf/papers/Xiang et al_2023_cuAlign.pdf"
 ---
