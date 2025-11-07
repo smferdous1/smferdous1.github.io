@@ -3,7 +3,7 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-layout: single
+layout: archive
 toc: false
 toc_sticky: false
 classes: wide 
