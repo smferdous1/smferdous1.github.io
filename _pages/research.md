@@ -43,7 +43,7 @@ Streaming algorithms process data sequentially with strict memory constraints. T
   - <span style="color:red">Featured</span> in [[PNNL news]](https://www.pnnl.gov/news-media/scientists-speed-groundwork-essential-quantum-computing), [[Quantum Computing Report]](https://quantumcomputingreport.com/pnnl-develops-picasso-algorithm-to-accelerate-quantum-data-preparation-by-85-percent-using-graph-coloring-and-clique-partitioning/), [[Inside HPC]](https://insidehpc.com/2025/04/sparsification-pnnl-slims-down-data-for-quantum/), [[Quantum Insider]](https://thequantuminsider.com/2025/04/24/scientists-speed-up-the-groundwork-essential-for-quantum-computing/).
 
 - **Poly-streaming Model [[ESA25]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2025.17)**
-  - The *poly-streaming model* generalizes both paradigms, enabling parallel execution with bounded memory.  
+  - The *poly-streaming model* generalizes both streaming and parallel algorithm paradigms, enabling parallel execution with bounded memory.  
   - We developed the *first poly-streaming algorithm for weighted matching*, achieving both speed and space efficiency.
   - <span style="color:red">Awarded Best Paper.</span>
 
