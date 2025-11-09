@@ -80,3 +80,27 @@ h1, h2, h3, h4, h5,
 .tag-badge[data-tag="distributed"] { background: #eefaf0; border-color: #cfefd6; }
 .tag-badge[data-tag="quantum"]     { background: #fff6e8; border-color: #ffdfb3; }
 .tag-badge[data-tag="hpc"]         { background: #eef7ff; border-color: #cadfff; }
+
+/* ---------- Global Font Size Overrides ---------- */
+
+/* Base body text */
+body {
+  font-size: 0.9rem;      /* default is ~1rem (16 px); try 0.9 = 14.4 px */
+  line-height: 1.5;
+}
+
+/* Headings */
+h1 { font-size: 1.6rem; }  /* default ≈ 2 rem */
+h2 { font-size: 1.4rem; }
+h3 { font-size: 1.2rem; }
+h4 { font-size: 1.05rem; }
+h5, h6 { font-size: 0.95rem; }
+
+/* Code blocks and tables (optional) */
+code, pre {
+  font-size: 0.85rem;
+}
+table {
+  font-size: 0.9rem;
+}
+
