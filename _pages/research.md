@@ -42,12 +42,12 @@ Streaming algorithms process data sequentially with strict memory constraints. T
 - **Picasso: Memory efficient and GPU parallel graph coloring for efficient measurement in quantum computing [[IPDPS24]](https://ieeexplore.ieee.org/document/10579092)**
   - Quantum algorithms like the Variational Quantum Eigensolver (VQE) require grouping *Pauli strings* for efficient measurement.  
   - We modeled this as a graph coloring problem and created *Picasso*, a GPU-based algorithm that colors graphs with *>1 trillion edges using just 40 GB of memory*. 
-  - <span style="color:red">Featured</span> in [[PNNL news]](https://www.pnnl.gov/news-media/scientists-speed-groundwork-essential-quantum-computing), [[Quantum Computing Report]](https://quantumcomputingreport.com/pnnl-develops-picasso-algorithm-to-accelerate-quantum-data-preparation-by-85-percent-using-graph-coloring-and-clique-partitioning/), [[Inside HPC]](https://insidehpc.com/2025/04/sparsification-pnnl-slims-down-data-for-quantum/), [[Quantum Insider]](https://thequantuminsider.com/2025/04/24/scientists-speed-up-the-groundwork-essential-for-quantum-computing/), and [[DOE News Update]](https://content.govdelivery.com/accounts/USDOEOS/bulletins/3e5a59a).
+  - <span style="color:red">**Featured**</span> in [[PNNL news]](https://www.pnnl.gov/news-media/scientists-speed-groundwork-essential-quantum-computing), [[Quantum Computing Report]](https://quantumcomputingreport.com/pnnl-develops-picasso-algorithm-to-accelerate-quantum-data-preparation-by-85-percent-using-graph-coloring-and-clique-partitioning/), [[Inside HPC]](https://insidehpc.com/2025/04/sparsification-pnnl-slims-down-data-for-quantum/), [[Quantum Insider]](https://thequantuminsider.com/2025/04/24/scientists-speed-up-the-groundwork-essential-for-quantum-computing/), and [[DOE News Update]](https://content.govdelivery.com/accounts/USDOEOS/bulletins/3e5a59a).
 
 - **Poly-streaming Model [[ESA25]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2025.17)**
   - The *poly-streaming model* generalizes both streaming and parallel algorithm paradigms, enabling parallel execution with bounded memory.  
   - We developed the *first poly-streaming algorithm for weighted matching*, achieving both speed and space efficiency.
-  - <span style="color:red">Awarded Best Paper.</span>
+  - <span style="color:red">**Awarded Best Paper.**</span>
 
 ---
 
@@ -57,7 +57,7 @@ Unlike matching or coloring, submodular functions are nonlinear set functions th
 
 Submodular functions play a central role in data science and machine learning, powering applications such as data summarization, influence maximization, and active learning. My research in this area has two complementary goals: i) *Scalability*: Designing efficient algorithms that leverage parallel, distributed, and streaming paradigms to handle massive datasets., and ii) *Applicability*: Applying submodular optimization to real-world problems across domains such load-balance in parallel algorithms, influence maximization, and pandemic planning. Below are selected recent works in this direction.
 
-- **Parallel Submodular b-matching and application in load balancing [[ACDA21]](https://epubs.siam.org/doi/10.1137/1.9781611976830.5)**
+- **Parallel Submodular $b$-matching and application in load balancing [[ACDA21]](https://epubs.siam.org/doi/10.1137/1.9781611976830.5)**
   - Novel parallel algorithm with $1/3$-approximation guarantee is developed for submodular $b$-matching problem using *local lazy greedy* approach.
   - The algorithm is applied to enhance load-balancing for block assignement in *distribured memory Fock matrix computation* in the [NWChemEx](https://github.com/NWChemEx/NWChemEx) software.
 
@@ -69,6 +69,6 @@ Submodular functions play a central role in data science and machine learning, p
   - Significant performance gains demonstrated on *512 compute nodes* (32K cores) of the NERSC Perlmutter supercomputer,.
 - **DIMPLES: Distributed Influence Maximization [[ICS25]](https://dl.acm.org/doi/10.1145/3721145.3730414)** 
   - Designed a massively parallel algorithms for influence maximization that scales to *8K nodes on 65K GPUs (Frontier supercomputer)*, aiding *pandemic planning and intervention strategies*.
-  - <span style="color:red">Awarded Best Paper.</span>
+  - <span style="color:red">**Awarded Best Paper.**</span>
 
 ---
