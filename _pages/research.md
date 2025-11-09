@@ -14,22 +14,24 @@ I work in  both theory and practice, where I develop **provably efficient algori
 
 ### 💾 Memory Efficiency through Streaming Algorithm
 When solving large-scale problems, **memory requirements** often become the primary bottleneck for performance.  
-The *streaming computational model*, proposed in theoretical computer science, tackles this issue by assuming that data items arrive one at a time, and only a small (sublinear) amount of memory is available for processing.
+The *[streaming computational model](https://doi.org/10.1016/j.tcs.2005.09.013)*, proposed in theoretical computer science, tackles this issue by assuming that data items arrive one at a time, and only a small (sublinear) amount of memory is available for processing.
 
-For example, given a graph with $n$ vertices, a streaming—or more precisely, a *semi-streaming*—algorithm is allowed to use only $O(n \log n)$ memory, even though the graph may contain $O(n^2)$ edges. Such algorithms are typically evaluated based on two key metrics: *Approximation guarantee:* the solution quality relative to the optimal, and *Number of passes:* how many times the algorithm scans the input stream. My research in streaming algorithm is centered around designing and implementing efficient algorithms that have theoretically proven quality guarantee and also show superior empiricial performance. I highlight my recent published work in streaming algorithms.
+For example, given a graph with $n$ vertices, a streaming—or more precisely, a *semi-streaming*—algorithm is allowed to use only $O(n \log n)$ memory, even though the graph may contain $O(n^2)$ edges. Such algorithms are typically evaluated based on two key metrics: *Approximation guarantee:* the solution quality relative to the optimal, and *Number of passes:* how many times the algorithm scans the input stream. My research in streaming algorithm is centered around designing and implementing efficient algorithms that have theoretically proven quality guarantee and also show superior empiricial performance. I highlight my recent published work in streaming algorithms. Here, $n$ is the number of vertices of a graph or hypergraph and $\varepsilon$ is a positive constant.
 
 
 - **Semi-streaming $k$-Disjoint Matching with applicaiton to data center networking [[ESA24]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2024.53)**
   - Two single-pass semi-streaming algorithms for the maximum weight $k$-disjoint matching ($k$-DM) problem are developed. 
   - The first algorithm is based on the primal-dual framework of a linear programming relaxation of the problem and is $1/(3+\varepsilon)$-approximate. 
   - Developed an approximation preserving reduction from $k$-DM to the maximum weight $b$-matching problem. Leveraging this reduction and an existing semi-streaming $b$-matching algorithm, we design a $(1/(2+\varepsilon))(1 - 1/(k+1))$-approximate algorithm. 
+  - Both algorithm requires $O(nk \log_{1+\varepsilon}^2 n)$ bits of space. Note that the output requires at least $O(nk \log n)$ bits space.
   - We also provide implementaion of our algorithms and compare against state-of-the-art offline approaches using synthetic and real-world graph. 
 
 - **Semi-streaming algorithms for edge cover [[SEA24]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SEA.2024.12)**
   - Developed and implemented novel streaming algorithms for *minimum weight edge cover (MWC)* problem and benchmark existing streaming matching algorithm comparing against state-of-the-art offline algorithms. 
-  - Two algorithms for MWC is proposed: i) a single pass $2$-approximate algorithm, and ii) a two pass $3/2 +\varepsilon$-approximate algorithm.
+  - Two algorithms for MWC is proposed: i) a single pass $2$-approximate algorithm requiring $O(n \log n)$ bits, and ii) a two pass $3/2 +\varepsilon$-approximate algorithm that require $O(n \log^2 n)$ bits. 
+  
 - **Semi-streaming algorithms for hypergraph matching [[ESA25]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2025.79)**
-  - Two single pass semi-streaming algorithms for *weighted hypergraph matching* with approximation guarantees: i) $\frac{1}{d(1+\varepsilon)}$ and ii) $\frac{1}{(2d-1) + 2 \sqrt{d(d-1)}}$, where $d$ is the maximum size of a hyperedge. 
+  - Two single pass semi-streaming algorithms for *weighted hypergraph matching* with approximation guarantees: i) $\frac{1}{d(1+\varepsilon)}$ and ii) $\frac{1}{(2d-1) + 2 \sqrt{d(d-1)}}$, where $d$ is the maximum size of a hyperedge. The memory requirements are ${O}((\frac{n}{\varepsilon}) \log^2{n})$ and ${O}(n)$, respectively.
   - These algorithms are compared against offline greedy algorithm using extensive dataset.
 
 ---
