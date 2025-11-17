@@ -8,5 +8,6 @@ link: "https://doi.org/10.1145/3637528.367194"
 github: "https://github.com/siddhartha047/AGS-GNN"
 arxiv: "https://arxiv.org/abs/2405.15218"
 paperurl: "/files/pdf/papers/Das et al_2024_AGS-GNN.pdf"
+icore: A*
 ---
 *Citation:* Das, Siddhartha Shankar and Ferdous, SM and Halappanavar, Mahantesh M and Serra, Edoardo and Pothen, Alex, "Ags-gnn: Attribute-guided sampling for graph neural networks", Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024
