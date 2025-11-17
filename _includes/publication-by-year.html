@@ -23,6 +23,9 @@
         In <span class="pub-venue">{{ post.venue}}.</span>
       {% endif %}
       <br>
+       {% if post.icore %}
+        <span style="color:blue"> (ICORE: {{ post.icore }}) </span>
+      {% endif %}
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}"><i class="fas fa-fa fa-file-pdf zoom" style="color:darkcyan" aria-hidden="true"></i></a>
       {% endif %}
