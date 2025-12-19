@@ -17,8 +17,8 @@ My research is in solving large-scale combinatorial problems, where my goal is t
 
 Recent Updates
 =====
-* **Dec 2025** Recipient of the Exceptional Contribution Award (2025), PNNL; recognized for outstanding performance and impact.
-* **Nov 2025** Serving as PC for demo track at [WSDM 2026](https://wsdm-conference.org/2026/). Also, agreed to serve as PC member for Algorithm track in SC 2026.
+* **Dec 2025** Recipient of the **Exceptional Contribution Award (2025)**, PNNL; recognized for outstanding performance and impact.
+* **Nov 2025** Serving as PC for demo track at [WSDM 2026](https://wsdm-conference.org/2026/). Also, agreed to serve as PC member for Algorithm track in [SC 2026](https://sc26.supercomputing.org/).
 * **Aug 2025** Our ESA 2025 [paper](https://www.arxiv.org/pdf/2507.14114) on weighted matching in a polystreaming model has been awarded <span style="color:red">the best paper </span> in Track B. Here are the coverages: [[PNNL]](https://www.pnnl.gov/news-media/massive-datasets-meet-their-match), [[Purdue]](https://www.cs.purdue.edu/news/articles/2025/massive-datasets-meet-their-match.html).
 * **Jun 2025** Paper <span style="color:green">accepted</span> in the International Conference on Advances in Social Networks Analysis and Mining [ASONAM 2025](https://asonam.cpsc.ucalgary.ca/2025/)!
 * **Jun 2025** Two papers <span style="color:green">accepted</span> in the European Symposium of Algorithms [ESA 2025](https://algo-conference.org/2025/esa/)!
