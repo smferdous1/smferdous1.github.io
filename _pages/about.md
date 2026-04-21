@@ -17,6 +17,9 @@ My research is in solving large-scale combinatorial problems, where my goal is t
 
 Recent Updates
 =====
+* **Apr 2026** Agreed to serve as a Program Committee member at the SIAM Symposium on Algorithm Engineering and Experiments (ALENEX27). 
+* **Apr 2026** Paper <span style="color:green">accepted</span> at ACM [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/). Here is the [preprint](https://arxiv.org/abs/2604.06596).
+*  **Mar 2026** Short paper <span style="color:green">accepted</span> in GRaPL workshop at IPDPS 2026. Here is the [preprint](https://arxiv.org/abs/2507.18891).
 * **Dec 2025** Recipient of the **Exceptional Contribution Award (2025)**, PNNL; recognized for outstanding performance and impact.
 * **Nov 2025** Serving as PC for demo track at [WSDM 2026](https://wsdm-conference.org/2026/). Also, agreed to serve as PC member for Algorithm track in [SC 2026](https://sc26.supercomputing.org/).
 * **Aug 2025** Our ESA 2025 [paper](https://www.arxiv.org/pdf/2507.14114) on weighted matching in a polystreaming model has been awarded <span style="color:red">the best paper </span> in Track B. Here are the coverages: [[PNNL]](https://www.pnnl.gov/news-media/massive-datasets-meet-their-match), [[Purdue]](https://www.cs.purdue.edu/news/articles/2025/massive-datasets-meet-their-match.html).
