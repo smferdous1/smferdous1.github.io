@@ -17,6 +17,7 @@ My research is in solving large-scale combinatorial problems, where my goal is t
 
 Recent Updates
 =====
+* **May 2026** Paper <span style="color:green">accepted</span> at ACM [kDD 2026](https://kdd2026.kdd.org/). Here is the [preprint](https://arxiv.org/abs/2502.10208). 
 * **Apr 2026** Agreed to serve as a Program Committee member at the SIAM Symposium on Algorithm Engineering and Experiments (ALENEX27). 
 * **Apr 2026** Paper <span style="color:green">accepted</span> at ACM [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/). Here is the [preprint](https://arxiv.org/abs/2604.06596).
 *  **Mar 2026** Short paper <span style="color:green">accepted</span> in GRaPL workshop at IPDPS 2026. Here is the [preprint](https://arxiv.org/abs/2507.18891).
