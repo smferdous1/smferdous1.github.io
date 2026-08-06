@@ -11,12 +11,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a data scientist and ex-[Linus Pauling Postocdoral Fellow](https://www.pnnl.gov/projects/linus-pauling-distinguished-postdoctoral-fellowship/recipients) at [Pacific Northwest Natonal Laboratory](https://www.pnnl.gov/), working at the intersection of **algorithm design** and **high-performance computing**. Previously, I was a postdoctoral research associate in the department of computer science at [Purdue University](https://www.purdue.edu/), from where I received my PhD in computer science.
+I am an assistant professor in the department of computer science at University of North Carolina at Charlotte. Previously, I was an data scientist and ex-[Linus Pauling Postocdoral Fellow](https://www.pnnl.gov/projects/linus-pauling-distinguished-postdoctoral-fellowship/recipients) at [Pacific Northwest Natonal Laboratory](https://www.pnnl.gov/). My work is at the intersection of **algorithm design** and **high-performance computing**. I received my PhD in computer science from [Purdue University](https://www.purdue.edu/). 
 
 My research is in solving large-scale combinatorial problems, where my goal is to design algorithms that are **theoretically sound** and **practically efficient**. To achieve this I often utilize **streaming, parallel and distributed memory** computational models. I am highly interested to explore interdisciplinary applications of combinatorial problems,  particularly in **quantum computing, data science, and machine learning**.
 
 Recent Updates
 =====
+* **Aug 2026** <span style="color:red">I have joined as a tenure-track assistant professor at UNC Charlotte! I am actively looking for a student to work in HPC and quantum computing. If you are interested please shoot an email at sferdou1@charlotte.edu.</span>
 * **May 2026** Paper <span style="color:green">accepted</span> at ACM [kDD 2026](https://kdd2026.kdd.org/). Here is the [preprint](https://arxiv.org/abs/2502.10208). 
 * **Apr 2026** Agreed to serve as a Program Committee member at the SIAM Symposium on Algorithm Engineering and Experiments (ALENEX27). 
 * **Apr 2026** Paper <span style="color:green">accepted</span> at ACM [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/). Here is the [preprint](https://arxiv.org/abs/2604.06596).
