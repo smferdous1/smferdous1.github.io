@@ -15,9 +15,13 @@ I am an assistant professor in the department of computer science at University 
 
 My research is in solving large-scale combinatorial problems, where my goal is to design algorithms that are **theoretically sound** and **practically efficient**. To achieve this I often utilize **streaming, parallel and distributed memory** computational models. I am highly interested to explore interdisciplinary applications of combinatorial problems,  particularly in **quantum computing, data science, and machine learning**.
 
+<div class="notice--success">
+I have joined as a tenure-track assistant professor at UNC Charlotte! I am actively looking for a student to work in HPC and quantum computing. If you are interested please shoot an email at <a href="mailto:sferdou1@charlotte.edu">sferdou1@charlotte.edu</a>.
+</div>
+
 Recent Updates
 =====
-* **Aug 2026** <span style="color:red">I have joined as a tenure-track assistant professor at UNC Charlotte! I am actively looking for a student to work in HPC and quantum computing. If you are interested please shoot an email at sferdou1@charlotte.edu.</span>
+* **Aug 2026** <span style="color:red">Joined UNC Charlotte as a tenure-track assistant professor!</span>
 * **May 2026** Paper <span style="color:green">accepted</span> at ACM [kDD 2026](https://kdd2026.kdd.org/). Here is the [preprint](https://arxiv.org/abs/2502.10208). 
 * **Apr 2026** Agreed to serve as a Program Committee member at the SIAM Symposium on Algorithm Engineering and Experiments (ALENEX27). 
 * **Apr 2026** Paper <span style="color:green">accepted</span> at ACM [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/). Here is the [preprint](https://arxiv.org/abs/2604.06596).
