@@ -1,9 +1,10 @@
 ---
-title: "SGS-GNN: A Supervised Graph Sparsification method for Graph Neural Networks"
+title: "SGS-GNN: A Supervised Graph Sparsifier for Graph Neural Networks"
 collection: publications
-date: 2025-01-01
-authors: "Shankar Das, Siddhartha and Anjum Arafat, Naheed and Rahman, Muftiqur and Ferdous, SM and Pothen, Alex and Halappanavar, Mahantesh M"
-venue: "arXiv e-prints"
-status: "unpublished"
+date: 2026-08-09
+author: "Siddhartha Shankar Das, Naheed Anjum Arafat, Muftiqur Rahman, S M Ferdous, Alex Pothen, Mahantesh Halappanavar and Danda B. Rawat"
+venue: "32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD 26</strong>)"
+link: "https://doi.org/10.1145/3770855.3818110"
+arxiv: "https://arxiv.org/abs/2502.10208"
+icore: A*
 ---
-*Citation:* Shankar Das, Siddhartha and Anjum Arafat, Naheed and Rahman, Muftiqur and Ferdous, SM and Pothen, Alex and Halappanavar, Mahantesh M, "SGS-GNN: A Supervised Graph Sparsification method for Graph Neural Networks", arXiv e-prints, 2025
