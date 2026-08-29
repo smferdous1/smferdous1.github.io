@@ -1,9 +1,9 @@
 ---
 title: "ApproxJoin: Approximate Matching for Efficient Verification in Fuzzy Set Similarity Join"
 collection: publications
-date: 2025-01-01
-authors: "Mandulak, Michael and Ferdous, SM and Ghosh, Sayan and Halappanavar, Mahantesh and Slota, George"
-venue: "arXiv preprint arXiv:2507.18891"
-status: "unpublished"
+date: 2026-05-01
+author: "Michael Mandulak, S M Ferdous, Sayan Ghosh, Mahantesh Halappanavar and George Slota"
+venue: "GRaPL Workshop, 2026 IEEE International Parallel and Distributed Processing Symposium Workshops (<strong>IPDPSW 26</strong>)"
+link: "https://doi.org/10.1109/IPDPSW71298.2026.00136"
+arxiv: "https://arxiv.org/abs/2507.18891"
 ---
-*Citation:* Mandulak, Michael and Ferdous, SM and Ghosh, Sayan and Halappanavar, Mahantesh and Slota, George, "ApproxJoin: Approximate Matching for Efficient Verification in Fuzzy Set Similarity Join", arXiv preprint arXiv:2507.18891, 2025
