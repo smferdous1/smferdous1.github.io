@@ -11,7 +11,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor in the department of computer science at University of North Carolina at Charlotte. Previously, I was an data scientist and ex-[Linus Pauling Postocdoral Fellow](https://www.pnnl.gov/projects/linus-pauling-distinguished-postdoctoral-fellowship/recipients) at [Pacific Northwest Natonal Laboratory](https://www.pnnl.gov/). My work is at the intersection of **algorithm design** and **high-performance computing**. I received my PhD in computer science from [Purdue University](https://www.purdue.edu/). 
+I am an assistant professor in the [college of computing and infomratics](https://cci.charlotte.edu/) at [University of North Carolina at Charlotte](https://www.charlotte.edu/). Previously, I was an data scientist and ex-[Linus Pauling Postocdoral Fellow](https://www.pnnl.gov/projects/linus-pauling-distinguished-postdoctoral-fellowship/recipients) at [Pacific Northwest Natonal Laboratory](https://www.pnnl.gov/). My work is at the intersection of **algorithm design** and **high-performance computing**. I received my PhD in computer science from [Purdue University](https://www.purdue.edu/). 
 
 My research is in solving large-scale combinatorial problems, where my goal is to design algorithms that are **theoretically sound** and **practically efficient**. To achieve this I often utilize **streaming, parallel and distributed memory** computational models. I am highly interested to explore interdisciplinary applications of combinatorial problems,  particularly in **quantum computing, data science, and machine learning**.
 
