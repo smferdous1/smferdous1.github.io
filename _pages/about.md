@@ -22,7 +22,7 @@ I have joined as a tenure-track assistant professor at UNC Charlotte! I am activ
 Recent Updates
 =====
 * **Oct 2026** Serving as Program Committee member in IPDPS 2027.
-* **Sept 2026** Four papers are accepted at IEEE HPEC 2026!
+* **Sept 2026** Four papers are <span style="color:green">accepted</span> at IEEE HPEC 2026!
 * **Aug 2026** <span style="color:red">Joined UNC Charlotte as a tenure-track assistant professor!</span>
 * **May 2026** Paper <span style="color:green">accepted</span> at ACM [kDD 2026](https://kdd2026.kdd.org/). Here is the [preprint](https://arxiv.org/abs/2502.10208). 
 * **Apr 2026** Agreed to serve as a Program Committee member at the SIAM Symposium on Algorithm Engineering and Experiments (ALENEX27). 
